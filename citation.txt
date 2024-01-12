@@ -1,0 +1,6 @@
+@article{REPO008,
+    author = "Zhou, Mengting and Gong, Zhiguo",
+    journal = "arXiv preprint arXiv:2302.12814",
+    title = "{GraphSR: A Data Augmentation Algorithm for Imbalanced Node Classification}",
+    year = "2023"
+}
